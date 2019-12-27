@@ -513,6 +513,10 @@ iframe {
         display:block;
     }
     
+    .picture-holder {
+        display: block;
+    }
+    
 }
 
 
