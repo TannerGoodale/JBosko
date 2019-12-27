@@ -275,6 +275,16 @@ iframe {
     margin: auto;
 }
 
+#hpc {
+    display: flex;
+    justify-content: center;
+}
+
+#mip {
+    display: flex;
+    justify-content: center;
+}
+
 /* 
 ==========================================================================
    Helper classes
@@ -513,9 +523,7 @@ iframe {
         display:block;
     }
     
-    .picture-holder {
-        display: block;
-    }
+    
     
 }
 
