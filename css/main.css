@@ -130,6 +130,7 @@ a:hover {
 body {
     width: 80%;
     margin: auto;
+    font-family: Arial, Helvetica, sans-serif;
 }
 
 /*
@@ -478,7 +479,7 @@ iframe {
     .dropbtn {
         background-color: darkblue;
         color: white;
-        padding: 0.5em 1em;
+        padding: 0.7em 1.5em;
         border: none;
         cursor: pointer;
         margin-top: 1em;
